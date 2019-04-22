@@ -1,2 +1,2 @@
 # NewFuncRepository
-Just another one
+Just another one+added features
